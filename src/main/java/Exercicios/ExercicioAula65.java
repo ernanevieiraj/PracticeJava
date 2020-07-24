@@ -35,8 +35,6 @@ public class ExercicioAula65 {
                 " units, Total: $ "+
                 String.format("%.2f", totalValueInStock());
     }
-
-//    Scanner scanner = new Scanner(System.in);
 //    ExercicioAula65 product = new ExercicioAula65();
 //        System.out.println("Enter product data:");
 //        System.out.println("Name:");

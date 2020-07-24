@@ -16,4 +16,15 @@ public class Exercicio3_68 {
             System.out.println("MISSING " + String.format("%.2f", (60 - finalGrade)) + " POINTS");
         }
     }
+//    Exercicio3_68 student = new Exercicio3_68();
+//        System.out.println("Name: ");
+//    student.name = scanner.nextLine();
+//        System.out.println("Nota 1: ");
+//    student.nota1 = scanner.nextDouble();
+//        System.out.println("Nota 2: ");
+//    student.nota2 = scanner.nextDouble();
+//        System.out.println("Nota 3: ");
+//    student.nota3 = scanner.nextDouble();
+//        student.grade();
+
 }
