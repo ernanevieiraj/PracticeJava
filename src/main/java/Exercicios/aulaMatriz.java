@@ -16,7 +16,7 @@ public class aulaMatriz {
 //                negativeNumbers+= 1;
 //            }
 //            if (i == j){
-//                System.out.println(mat[i][j]);
+//                System.out.print(mat[i][j] + " ");
 //            }
 //        }
 //    }
